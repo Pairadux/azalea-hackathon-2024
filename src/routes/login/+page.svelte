@@ -41,7 +41,7 @@
 </script>
 
 <div class="flex h-full w-full flex-col items-center p-12">
-	<div class="h-[48rem] w-[36rem] bg-gray-200 dark:bg-gray-700 flex flex-col items-center justify-center">
+	<div class="h-[36rem] w-[36rem] bg-gray-200 dark:bg-gray-700 flex flex-col items-center justify-center">
 		<h1 class="mb-32 text-center text-2xl font-bold text-black dark:text-white">Welcome Back!</h1>
 		<form class="flex flex-col gap-8" on:submit|preventDefault={handleLogin}>
 			<input

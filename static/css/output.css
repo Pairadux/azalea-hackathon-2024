@@ -888,6 +888,10 @@ select {
   height: 48rem;
 }
 
+.h-\[36rem\] {
+  height: 36rem;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
