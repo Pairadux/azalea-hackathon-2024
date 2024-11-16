@@ -66,7 +66,7 @@
 				{/each}
 			</ul>
 		</div>
-		<div class="messages flex h-[800px] flex-col gap-8 overflow-y-scroll p-4">
+		<div class="messages flex h-[600px] flex-col gap-8 overflow-y-scroll p-4">
 			{#each messages as msg}
 				<div
 					class="flex w-full"
