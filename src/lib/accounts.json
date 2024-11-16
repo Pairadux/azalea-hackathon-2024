@@ -1,0 +1,6 @@
+[
+    { "username": "doctor1", "password": "password123", "role": "doctor" },
+    { "username": "patient1", "password": "mypassword", "role": "patient" },
+    { "username": "doctor2", "password": "securepass", "role": "doctor" },
+    { "username": "patient2", "password": "anotherpass", "role": "patient" }
+]
